@@ -1,13 +1,13 @@
-- title: home
+- title: Start
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: Archiwum
+  url: /archiwum/
   external: false
 
-- title: about
-  url: /about/
+- title: O Mnie
+  url: /omnie/
   external: false # set true if you using external link, see below
 
 # Example:

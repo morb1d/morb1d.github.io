@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+<html lang="{{ page.lang | default: site.lang | default: " pl " }}">
 
 {% include header.html %}
 <body data-theme="{{ site.mode }}" class="notransition">
@@ -21,7 +21,7 @@ layout: compress
         localStorage.setItem("theme", data);
       }
     };
- 
+
     initTheme(localStorage.getItem("theme"));
     
     setTimeout(() => body.classList.remove("notransition"), 75);
@@ -33,8 +33,8 @@ layout: compress
       <div class="not-found">
         <div class="container">
           <div class="title">404</div>
-          <p class="phrase">😕 Hmm... Seems you lost from my journey.</p>
-          <a class="solution" href="{{ site.url }}">back home</a>
+          <p class="phrase">😕 Hmm... coś poszło nie tak.</p>
+          <a class="solution" href="{{ site.url }}">powrót</a>
         </div>
       </div>
     </main>  
