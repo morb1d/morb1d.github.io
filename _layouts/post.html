@@ -64,25 +64,26 @@ layout: compress
           <h1 class="header-title" itemprop="headline">{{ page.title | escape }}</h1>
           {% if page.date %}
           <div class="post-meta">
-            <time hidden datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
               {{ page.date | date: "%b %d, %Y" }}
             </time>
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">{{ site.author.name }}</span>
+              <span itemprop="name">{{ site.author.name }}</span>                
             </span>
-            <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
-              {{ page.date | date: "%b %d, %Y" }}
-            </time>
-            <span hidden itemprop="publisher" itemtype="Person">{{ site.author.name }}</span>
-            <span hidden itemprop="image">{{ page.image }}</span>
-            <span hidden itemprop="mainEntityOfPage">{{ page.excerpt }}</span>
           </div>
-          <div class="post-meta" style="margin-top: 15px">
-            <span style="font-size: 14px">Rozmiar czcionki: </span> 
+          <div class="post-meta">            
+            <span style="font-size: 15px;">Rozmiar czcionki: </span> 
             <div class="smaller" style="display: inline-block;"><a style="font-size: 14px">zmniejsz</a></div> 
             <span> . </span> 
             <div class="larger" style="display: inline-block;"><a style="font-size: 14px">zwiększ</a></div> 
           </div>
+          <div class="post-meta" style="margin-top: 25px;">
+            <span itemprop="image"><img src="{{ page.image }}" /></span>
+            <!-- HIDDEN -->
+            <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified"> {{ page.date | date: "%b %d, %Y" }}</time>
+            <span hidden itemprop="publisher" itemtype="Person">{{ site.author.name }}</span>
+            <span hidden itemprop="mainEntityOfPage">{{ page.excerpt }}</span>
+          </div>          
           {% endif %}
         </header>
 
