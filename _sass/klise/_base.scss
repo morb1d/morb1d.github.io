@@ -77,6 +77,11 @@ figure,
   margin-bottom: $spacing-full - 20;
 }
 
+.larger,
+.smaller {
+ cursor: pointer
+}
+
 // strong | bold
 strong,
 b {

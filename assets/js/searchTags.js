@@ -1,3 +1,4 @@
+
 let tagsArray = []; 
 const urlParams = new URLSearchParams(window.location.search); 
 const pickedTag = urlParams.get('tag'); 
@@ -32,4 +33,14 @@ function checkIfTagsMatch(arr1, arr2) {
     return arr1.every(item => arr2.includes(item)) ; 
 } 
 
-var sjs = new SimpleJekyllSearch({ searchInput: searchInput, resultsContainer: document.getElementById('search-results'), json: '/assets/search.json', searchResultTemplate: '<li class="result"><a href="https://krzysztofbury.pl{url}">{title}</a></li>', limit: 50, tagsArray: tagsArray, noResultsText: 'Brak wyników ...', fuzzy: false }); initTags(); 
+var sjs = new SimpleJekyllSearch({ 
+        searchInput: searchInput, 
+        resultsContainer: document.getElementById('search-results'), 
+        json: '/assets/search.json', 
+        searchResultTemplate: '<li class="result"><a href="https://krzysztofbury.pl{url}">{title}</a></li>', 
+        limit: 25, 
+        tagsArray: tagsArray, 
+        noResultsText: 'Brak wyników ...', 
+        fuzzy: false }); 
+
+initTags(); 

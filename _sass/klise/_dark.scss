@@ -51,6 +51,29 @@ body[data-theme="dark"] {
         color: $dark-text-link-blue;
       }
     }
+    
+    .archive-tags {
+      text-align: center;
+      height: auto;
+  
+      .tag-item {
+        color: #ff6060;
+        cursor: pointer;
+        padding: 1px 3px;
+        border-radius: 2px;
+        border: 1px solid rgba(128, 128, 128, 0.1);
+        background-color: rgba(128, 128, 128, 0.1);
+      }
+  
+      a.tag-item:hover { 
+        color: green;
+      }
+  
+      a.tag-item.picked { 
+        color: green;
+      }
+    }
+    
   }
 
   // Syntax

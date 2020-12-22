@@ -13,7 +13,7 @@
     galite.UA = "{{ site.google_analytics }}";
   </script>
 {%- endif -%}
-{%- if page.url == '/archiwum/' or page.url == '/szukaj/' -%}
+{%- if page.url == '/archiwum/' -%}
   <script src="/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
@@ -24,5 +24,6 @@
   </script>
 {%- endif -%}
 {%- if page.url == '/szukaj/' -%}
-  <script src="/assets/js/searchByTags.js"></script>
+  <script src="/assets/js/search.min.js"></script>
+  <script src="/assets/js/searchTags.js"></script>
 {%- endif -%}
