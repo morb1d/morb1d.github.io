@@ -1,10 +1,15 @@
-<!-- unnecessary file, however you can still use for comment section, e.g disqus -->
-<script
-  src="https://utteranc.es/client.js"
-  repo="username/reponame"
-  issue-term="pathname"
-  label="✨ comment ✨"
-  theme="github-light"
-  crossorigin="anonymous"
-  async
-></script>
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://krzysztofbury-pl.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Chcesz dodać komentarz, a nie widzisz sekcji? Sprawdź czy JavaScript nie jest blokowany w Twojej przeglądarce.</noscript>

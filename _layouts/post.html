@@ -95,16 +95,16 @@ layout: compress
           {% endif %}
         </div>
       </article>
-    
-      {% if page.comments %}
+
+      {% if page.modified %}
+        <small class="post-updated-at">Ostatnia aktualizacja: {{page.modified | date: "%d-%m-%Y"}}</small>
+      {% endif %}
+      <p> </p>
+      {% if page.comments %}  
         {% include comments.html %}
       {% endif %}
-
     </main>
 
-    {% if page.modified %}
-      <small class="post-updated-at">ostatnia aktualizacja: {{page.modified | date: "%d-%m-%Y"}}</small>
-    {% endif %}
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
