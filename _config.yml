@@ -26,7 +26,6 @@ author:
 url: "https://krzysztobury.pl" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
 fb_appid:
 
 # Collection setting
