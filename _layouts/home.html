@@ -3,7 +3,7 @@ layout: default
 home: true
 ---
 
-<h3 class="posts-item-note" aria-label="Recent Posts">Aktualne wpisy</h3>
+<h3 class="posts-item-note" aria-label="Recent Posts">Ostatnie wpisy</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
@@ -15,8 +15,8 @@ home: true
 <br/>
 <h3><a class="search-text" 
        href="/szukaj" 
-       style="display: block; margin-left: auto; margin-right: auto;">wyszukaj więcej wpisów!
+       style="display: block; margin-left: auto; margin-right: auto;">Wyszukaj więcej wpisów!
       </a>
 </h3>
-<br><br>
+<br/>
 {% include news.html %}
