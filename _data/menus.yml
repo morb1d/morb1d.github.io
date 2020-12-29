@@ -2,15 +2,18 @@
   url: /
   external: false
 
-- title: Archiwum
-  url: /archiwum/
+- title: Zadania
+  url: /#/
+  external: false
+
+- title: Książki
+  url: /#/
+  external: false
+
+- title: Przepisy
+  url: /#/
   external: false
 
 - title: O Mnie
   url: /omnie/
   external: false # set true if you using external link, see below
-
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
