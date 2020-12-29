@@ -20,7 +20,7 @@ author:
   twitter: krzysiekbury # twitter username
   facebook: krzysztoftbury # facebook username
   email: kontakt@krzysztofbury.pl # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: assets/img/profile.jpg # change with your own avatar
 
 # URL settings
 url: "https://krzysztobury.pl" #
