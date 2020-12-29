@@ -23,7 +23,7 @@ author:
   avatar: /assets/img/profile.webp # change with your own avatar
 
 # URL settings
-url: "https://krzysztobury.pl" #
+url: "https://krzysztofbury.pl" #
 baseurl:
 permalink: /:title/
 fb_appid:
