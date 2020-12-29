@@ -1,6 +1,7 @@
 ---
 title: Polityka Prywatności
 permalink: /polityka-prywatnosci/
+modified: 2020-12-29 15:41:47 +01:00
 layout: page
 excerpt: Polityka Prywatności - KrzysztofBury.pl
 comments: false
@@ -96,4 +97,9 @@ comments: false
   <h2>8. Kontakt</h2>
   <p>Możesz się ze mną skontaktować pod adresem e-mail <a href="mailto:kontakt@krzysztofbury.pl">kontakt@krzysztofbury.pl</a> jak również pod adresem
     fizycznym podanym wyżej.</p>
+  <br/>
 </div>
+
+{% if page.modified %}
+<small class="post-updated-at">Ostatnia aktualizacja: {{page.modified | date: "%d-%m-%Y"}}</small>
+{% endif %}

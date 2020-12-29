@@ -1,6 +1,7 @@
 ---
 title: Krzysiek Bury
 permalink: /omnie/
+modified: 2020-12-29 15:41:47 +01:00
 layout: page
 excerpt: Wszystko co chcesz wiedzieć.
 comments: false
@@ -28,11 +29,12 @@ comments: false
   </div>
 </div>
 
-<div class="entry-content clear" itemprop="text">
-  <p>Typ osobowści <em><strong>ESTJ </strong> </em>według&nbsp;<a href="http://www.16personalities.com">16personalities.com</a></p>
-  <p>Moich 5 głównych talentów według 
+<div itemprop="text">
+  <p>Typ osobowści <em><strong>ESTJ </strong> </em>według&nbsp;<a
+      href="http://www.16personalities.com">16personalities.com</a></p>
+  <p>Moich 5 głównych talentów według
     <a href="http://strengths.gallup.com/default.aspx"> Gallup Strengths Finder</a>
-    <br/>
+    <br />
     <em><strong>Focus®, Achiever®, Relator®, Responsibility®, Significance®</strong></em>
   </p>
   <h4><strong>Obecnie:</strong></h4>
@@ -42,13 +44,34 @@ comments: false
     <li>Zdobywca <strong>Korony Maratonów Polskich</strong></li>
     <li><a href="https://krzysztofbury.pl/ksiazki/">Czytam książki</a></li>
     <li><a href="https://krzysztofbury.pl/przepisy/">Gotuję</a></li>
-    <li><a href="https://krzysztofbury.pl/zadania/">Realizuję Cele</a></li>    
-    <li>Twórca <strong><a href="https://datacraze.pl">DataCraze</a></strong></li>    
+    <li><a href="https://krzysztofbury.pl/zadania/">Realizuję Cele</a></li>
+    <li>Twórca <strong><a href="https://datacraze.pl">DataCraze</a></strong></li>
     <li>Autor Szkolenia Online <strong><a href="https://zrozumsql.pl">ZrozumSQL</a></strong></li>
-    <li>Pomagam zrozumieć dane w <strong><a href="https://brainly.com">Brainly</a></strong></li>  
+    <li>Pomagam zrozumieć dane w <strong><a href="https://brainly.com">Brainly</a></strong></li>
   </ul>
-  <br/>
-  <p><em>Ostatnia aktualizacja: 30 grudzień 2020</em></p>
+</div>
+<div itemprop="text">
+  <h4>Prezentacje i wystąpienia</h4>
+  <ul>
+    <li>Maj 2020 <br><strong>Narzędzia BI w akcji Qlik Sense – show off narzędzia i jego możliwości,</strong> VIII
+      Polish Business Analytics Summit</li>
+    <li>Grudzień 2019 
+      <ul>
+        <li><strong>SQL OD PODSTAW (WARSZTATY – #doITforAlex)</strong></li>
+        <li><strong>LEARN SQL IN 60 MINUTES, </strong> GE Healthcare (prezentacja wewnętrzna)</li>
+      </ul>
+    <li>Listopad 2019 <br><strong>YOUR NEW YEAR’S RESOLUTIONS WON’T WORK. LET’S TRY TO CHANGE THAT</strong>, GE Healthcare (prezentacja wewnętrzna)</li>
+    <li>Wrzesień 2018 <br><strong>OD DANYCH DO AKCJI </strong><strong>(WARSZTATY), </strong>ML @ Enterprise – <a href="https://mlforum.pl/agenda/#wyklad11">Opis</a></li>
+    <li>Lipiec 2018 <br><strong>INTRODUCTION TO</strong> <strong>BLOCKCHAIN</strong>, GE Healthcare (prezentacja wewnętrzna)</li>
+    <li>Kwiecień 2018 <br><strong>VISUALIZE YOUR DATA,</strong> 14. Studencki Festiwal Informatyczny – <a href="https://www.slideshare.net/KrzysztofBury1/visualize-your-data-55992576">Link do prezentacji</a> / <a href="https://www.youtube.com/watch?v=y6OKgniS2rs">Video</a></li>
+    <li>Grudzień 2015 <br><strong>VISUALIZE YOUR DATA,</strong> Data KRK Meetup – <a href="https://www.slideshare.net/KrzysztofBury1/visualize-your-data-55992576">Link do prezentacji</a></li>
+  </ul>
+</div>
+<div>
   <br/>
   <p><strong>Uwaga:</strong> opinie i wpisy udostępniane na tej stronie są tylko i wyłącznie moimi opiniami.</p>
+  <br/>
+  {% if page.modified %}
+   <small class="post-updated-at">Ostatnia aktualizacja: {{page.modified | date: "%d-%m-%Y"}}</small>
+  {% endif %}
 </div>
