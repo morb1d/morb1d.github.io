@@ -1,7 +1,7 @@
 # Site settings
-title: Krzysztof Bury # site title
+title: Krzysiek Bury # site title
 description: >- # site description
-  ...
+  Krzysiek Bury - W Moim Świecie
 lang: pl-PL # default lang
 timezone: Europe/Warsaw # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,9 +10,11 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Krzysztof Bury # author name
+  name: Krzysiek Bury # author name
   bio: >- # tell to the world
-    ...
+    Witam Cię w Moim Świecie. 
+    <br/>
+    Znajdziesz tutaj subiektywne opinie nt. produktywności, pisania, gotowania czy książek.
   username: Krzysiek Bury # general username
   github: morb1d # github username
   twitter: krzysiekbury # twitter username
