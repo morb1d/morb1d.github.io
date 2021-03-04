@@ -65,7 +65,10 @@ layout: compress
           {% if page.date %}
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {{ page.date | date: "%b %d, %Y" }}
+              {% assign m = post.date  | date: "%-m" | minus: 1 %}
+              {{ site.months[m] }}
+              {{ post.date | date: "%-d" }},
+              {{ post.date | date: "%Y" }}
             </time>
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ site.author.name }}</span>                

@@ -89,3 +89,18 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+
+# PL Months
+months:
+    - Sty
+    - Lut
+    - Mar
+    - Kwi
+    - Maj
+    - Cze
+    - Lip
+    - Sie
+    - Wrz
+    - Paź
+    - Lis
+    - Gru
