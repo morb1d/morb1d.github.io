@@ -77,16 +77,16 @@ layout: compress
             <span> . </span> 
             <div class="larger" style="display: inline-block;"><a style="font-size: 14px">zwiększ</a></div> 
           </div>
-          <div class="post-meta" style="margin-top: 25px;">
+          <div class="post-meta" style="margin-top: 10px;">
             <span itemprop="image"><img src="{{ page.image }}" /></span>
-            <!-- HIDDEN -->
+            <!-- HIDDEN 
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified"> {{ page.date | date: "%b %d, %Y" }}</time>
             <span hidden itemprop="publisher" itemtype="Person">{{ site.author.name }}</span>
             <span hidden itemprop="mainEntityOfPage">{{ page.excerpt }}</span>
+            -->
           </div>          
           {% endif %}
         </header>
-
         <div id= "page-content" class="page-content" itemprop="articleBody">
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% if page.tweet %}

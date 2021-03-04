@@ -1,15 +1,12 @@
 ---
-title: "Artefakty"
-date: "2017-07-27"
-categories: 
-  - "produktywnosc"
-tags: 
-  - "artefakty"
-  - "produktywnosc"
-coverImage: "vadim-sherbakov-36-e1501140687712.jpg"
+title: Artefakty
+date: 2017-07-27 15:00 +01:00
+modified: 
+tags: [produktywnosc]
+description: 
+image: 
 ---
-
-\[heading align="left"\] Czym jest artefakt? \[/heading\]
+## **Czym jest artefakt?**
 
 W zależności od kontekstu, może to być "wytwór ręki ludzkiej, każdy przedmiot wykonany lub zmodyfikowany przez człowieka, a następnie odkryty w wyniku badań archeologicznych." \[1\], lub "niepożądany czynnik, ujawniający się w trakcie empirycznych badań naukowych, zniekształcający przedmiot badań, wnoszący do badań element, który realnie nie istnieje"\[2\]. Również w świecie fantasy (gier RPG / filmów etc.) jest to zwykle bardzo cenny i trudny do pozyskania "przedmiot" o potężnej mocy.
 
@@ -42,16 +39,9 @@ Obecnie zawsze przy okazji stawiania sobie jakiegoś celu, zastanawiam się jaki
 
 Polecam Ci wypróbowanie tej techniki, daj znać czy sprawdza się u Ciebie a może masz swoje sprawdzone metody?
 
-Dzięki,
+---
+[1] [https://pl.wikipedia.org/wiki/Artefakt\_(archeologia)](https://pl.wikipedia.org/wiki/Artefakt_(archeologia))
 
-Krzysiek
+[2] [https://pl.wikipedia.org/wiki/Artefakt\_(badania\_naukowe)](https://pl.wikipedia.org/wiki/Artefakt_(badania_naukowe))
 
- 
-
-\[1\] [https://pl.wikipedia.org/wiki/Artefakt\_(archeologia)](https://pl.wikipedia.org/wiki/Artefakt_(archeologia))
-
-\[2\] [https://pl.wikipedia.org/wiki/Artefakt\_(badania\_naukowe)](https://pl.wikipedia.org/wiki/Artefakt_(badania_naukowe))
-
-\[3\] [https://en.wikipedia.org/wiki/Artifact\_(software\_development)](https://en.wikipedia.org/wiki/Artifact_(software_development))
-
-Fotografia zrobiona przez [Vadim Sherbakov](http://unsplash.com/photos/osSryggkso4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) udostępniona dzięki uprzejmości portalu [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[3] [https://en.wikipedia.org/wiki/Artifact\_(software\_development)](https://en.wikipedia.org/wiki/Artifact_(software_development))

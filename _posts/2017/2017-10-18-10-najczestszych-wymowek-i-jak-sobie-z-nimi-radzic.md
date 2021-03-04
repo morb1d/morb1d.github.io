@@ -1,65 +1,57 @@
 ---
-title: "10 najczęstszych wymówek i jak sobie z nimi radzić"
-date: "2017-10-18"
-categories: 
-  - "produktywnosc"
-tags: 
-  - "pomysly"
-  - "produktywnosc"
-coverImage: "10najczestszychWymowek.jpg"
+title: 10 najczęstszych wymówek i jak sobie z nimi radzić?
+date: 2017-10-18 15:00 +01:00
+modified: 
+tags: [cele, produktywnosc]
+description: 
+image:
 ---
 
-Jak często po zaplanowaniu celu / projektu / zadania zwlekasz z jego realizacją?
+Jak często po zaplanowaniu celu, projektu czy zadania zwlekasz z jego realizacją?
 
-Nigdy? Esktra, ten wpis prawdopodobnie nie będzie dla Ciebie, jednak jeżeli podobnie jak ja zdarza Ci się zwlekać z realizacją zadań to zapraszam do czytania.
+**Nigdy? Esktra, ten wpis prawdopodobnie nie będzie dla Ciebie**. Jednak jeżeli podobnie jak ja zdarza Ci się zwlekać z realizacją zadań to zapraszam do czytania.
 
-Nie będę wchodził w szczegóły jak zarządzać zadaniami, ważny jest fakt że masz / znasz swoje cele / zadania, które chcesz realizować, ale z różnych przyczyn nie posuwają się one do przodu.
+To nie będzie wpis o zarządzaniu zadaniami, ważny jest fakt że masz i znasz swoje cele (zadania). Chcesz je realizować, ale z różnych przyczyn nie posuwają się one do przodu.
 
 Poniżej znajdziesz 10 najczęstszych wymówek (głównie te z którymi ja na codzień walczę) i pomysły na to co możesz zrobić żeby się ich pozbyć.
 
- 
+## **1. Brak Czasu**
 
-\[heading align="center"\] Brak czasu \[/heading\]
+Każdy z nas ma tylko 24h w trakcie dnia, jak te wszystkie plany i cele realizować? 
 
-Każdy z nas ma tylko 24h w trakcie dnia, jak te wszystkie plany i cele realizować? Wykonaj bardzo proste ćwiczenie, przez 1 dzień spisuj to czym się zajmujesz w danej chwili i ile czasu Ci zajmuje dana czynność.
+Wykonaj bardzo proste ćwiczenie, przez 1 dzień spisuj to czym się zajmujesz w danej chwili i ile czasu Ci ta czynność zajmuje.
 
-Może się okazać że faktycznie ilość rzeczy które wykonujesz jest ogromna i nie tracisz czasu na „zapychacze” (tv, social media itd.), być może to dobry moment żeby się zastanowić czy wszystkie te rzeczy to Twoje priorytety? Może część można oddelegować, poprosić o pomoc / wsparcie?
+Może się okazać, że faktycznie ilość rzeczy które wykonujesz jest ogromna i nie tracisz czasu na „zapychacze” (tv, social media itd.). 
 
-W moim przypadku okazało się że wolałem posiedzieć na Twitterze, czy oglądać Youtube-y zamiast zająć się realizacją moich planów – wszystko jest kwestią priorytetów. Dalej z tym walczę, ale przynajmniej mam świadomość tego na co tracę czasu, i że wybór którego dokonuję odpalając wideo na YT jest świadomą decyzją.
+W takim razie, może to dobry moment żeby się zastanowić czy wszystkie te rzeczy to Twoje priorytety? Czy można coś oddelegować, poprosić o pomoc lub wsparcie?
 
- 
+W moim przypadku okazało się że wolałem oglądać Youtube zamiast zająć się realizacją moich planów – wszystko jest kwestią priorytetów. Dalej z tym walczę, ale przynajmniej mam świadomość tego na co poświęcam czas. Jak i tego, że wybór, którego dokonuję jest świadomą decyzją.
 
-\[heading align="center"\] Zmęczenie \[/heading\]
+## **2. Zmęczenie**
 
-8+ godzin pracy, dojazd / powrót, dzieci, rodzina, obowiązki, stres. I jak do takiego koktajlu wrażeń dopasować „wyjść pobiegać” przecież jestem już zmęczona/y.
+8+ godzin pracy, dojazd, powrót, dzieci, rodzina, obowiązki, stres. I jak do takiego koktajlu wrażeń dopasować „wyjść pobiegać” przecież jestem już zmęczona/y.
 
 Pamiętaj, że „wyjść pobiegać” jest Twoim świadomym wyborem i kryje się za tym jakiś cel. Dlaczego odmawiasz sobie realizacji własnych celów, realizując przez cały dzień cele wszystkich dookoła?
 
-Jeżeli założyłeś/łaś, że „wyjdziesz pobiegać” a nie masz siły wysiądź 1 przystanek wcześniej (przed pracą / powrotem do domu) i wróc na nogach (o ile jezdzisz komunikacją miejską), lub wyjdź na krótki spacer.
+Jeżeli założyłeś/łaś, że „wyjdziesz pobiegać” a nie masz siły, wysiądź 1 przystanek wcześniej (przed pracą / powrotem do domu) i wróc na nogach (o ile jeździsz komunikacją miejską) lub wyjdź na krótki spacer.
 
-„Napisze post na bloga” napisz chociaż szkic tego co chcesz ująć w tym wpisie jeżeli jeszcze tego nie masz w notatkach itd.
+„Napiszę post na bloga” napisz chociaż szkic tego co chcesz ująć w tym wpisie jeżeli jeszcze tego nie masz w notatkach itd.
 
 Zawsze pomimo zmęczenia można podzielić zadanie na minimalne części i do nich dążyć.
 
- 
+## **3. Perfekcja**
 
-\[heading align="center"\] Perfekcja\[/heading\]
+Sypię głowę popiołem, moja największa bolączka. Nie zacznę prowadzić bloga bo jeszcze nie wybrałem loga, nie kupiłem domeny, nie wybrałem skórki na Wordpressa, a przecież to ma być najlepszy (perfekcyjny) blog ...
 
-Sypię głowę popiołem, moja największa bolączka. Nie zacznę prowadzić bloga, bo jeszcze nie wybrałem, loga, nie kupiłem domeny, nie wybrałem template-u na Wordpressa, a przecież to ma być najlepszy / perfekcyjny blog ...
+Tak więc, co byłoby lepsze, dobry wpis czy piękne logo na blogu? Jasne, że dobrze by było mieć obie te rzeczy ale co nas posuwa krok dalej w naszych celach  - to co realizujemy i ma realną wartość, dlatego warto pamiętać o prostej zasadzie: „done is better than perfect”.
 
-Tak, więc co byłoby lepsze dobry wpis czy piękne logo na blogu, jasne że dobrze by było mieć obie te rzeczy ale co nas posuwa krok dalej w naszych celach  - to co realizujemy i ma realną wartość, dlatego warto pamiętać o prostej zasadzie: „done is better than perfect”.
+## **4. Opinia innych**
 
- 
+Każdy ma jakąś / swoją opinię, czy powinniśmy ją ignorować – nie, czy powinniśmy się nią przejmować podejmując dowolną akcję – absolutnie nie. Warto szanować opinie innych o ile nie jest po prostu krzywdząca, w przeciwnym razie to tylko szum zignoruj go.
 
-\[heading align="center"\] Opinia innych \[/heading\]
+Czy wniesie coś do Twojego życia komentarz „słabe teksty” lub „co Ty wiesz człowieku”?No raczej nie wiele, więc po co zaprzątać sobie tym głowę, pamiętaj że realizujesz **swoje** cele.
 
-Każdy ma jakąś / swoją opinię, czy powinniśmy ją ignorować – nie, czy powinniśmy się nią przejmować podejmując dowolną akcję – absolutnie nie. Warto szanować i dyskutować opinie innych osób jeżeli są one wartościowe, w przeciwnym razie to tylko szum który powinnien zostać zignorowany.
-
-Czy wniesie coś do Twojego życia komentarz „słabe teksty”, „co Ty wiesz człowieku”, no raczej nie wiele, więc po co zaprzątać sobie tym głowę, pamiętaj że realizujesz swoje cele.
-
- 
-
-\[heading align="center"\] Brak pieniędzy \[/heading\]
+## **5/ Brak pieniędzy \[/heading\]
 
 Polecam przeczytać książkę autorstwa [Chrisa Guillebeau – The 100$ Startup](https://www.amazon.com/100-Startup-Reinvent-Living-Create/dp/0307951529). Naprawdę nie potrzebujesz mieć milionów żeby zacząć podążąć za swoimi marzeniami. Jasne pieniądze mogą nie rzadko ułatwić start, ale często to jest kolejna wymówka przed podjęciem działania.
 

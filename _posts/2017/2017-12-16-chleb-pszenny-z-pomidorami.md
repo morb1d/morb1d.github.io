@@ -1,10 +1,10 @@
 ---
-title: "Chleb Pszenny z Suszonymi Pomidorami"
-date: "2017-12-16"
-categories: 
-  - "gotowanie"
-  - "masterchef"
-coverImage: "IMG_20171216_195107-e1513460897872.jpg"
+title: Chleb Pszenny z Suszonymi Pomidorami
+date: 2017-12-16 15:00 +01:00
+modified: 
+tags: [gotowanie, masterchef]
+description:
+image: 
 ---
 
 **Cel:** Lekki chleb we włoskim stylu;
@@ -31,14 +31,17 @@ coverImage: "IMG_20171216_195107-e1513460897872.jpg"
 - Po wyrośnięciu, zagnieć ciasto jeszcze i uformuj pożądany kształt: okrągły lub owalny bochenek lub np. włóż ciasto do formy
 - Po ugnieceniu pozostaw ciasto jeszcze na ok 20 / 30 minut do wyrośnięcia
 - Jeżeli posiadasz gruboziarnistą sól przed włożeniem do piekarnia możesz szczyptę rozsypać po chlebie
-- Włóż do piekarnika nagrzanego do temperatury 200oC
+- Włóż do piekarnika nagrzanego do temperatury 200<sup>o</sup>C
 - Piecz około 35 min\*\*
 
+![Chleb pszenny z suszonymi pomidorami - ciasto.](/assets/posts/2017/chleb-pszenny-z-suszonymi-pomidorami/chleb_pszenny_z_pomidorami_p1_ciasto.webp)
+
+![Chleb pszenny z suszonymi pomidorami - gotowy.](/assets/posts/2017/chleb-pszenny-z-suszonymi-pomidorami/chleb_pszenny_z_pomidorami_p2_gotowy.webp)
  
 
 Smacznego!
 
-\---
+---
 
 \* ostrożnie z dosypywaniem mąki, ciasto mimo wszystko powinno mieć lekko lepką konsystencję (ale nie powinno być rozlane)
 

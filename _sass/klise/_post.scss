@@ -8,8 +8,8 @@
 
 // Post title
 .header {
-  margin-top: 4em;
-  margin-bottom: 4em;
+  margin-top: 2em;
+  margin-bottom: 1em;
 
   .tags {
     margin-left: 3px;
@@ -73,7 +73,7 @@
 
 // Post content
 .page-content {
-  padding-top: 8px;
+  padding-top: 2px;
   font-size: 17px;
 
   iframe {
@@ -199,7 +199,7 @@
 .post-nav {
   display: flex;
   position: relative;
-  margin-top: 5em;
+  margin-top: 1em;
   border-top: 1px solid $light;
   line-height: 1.4;
 
